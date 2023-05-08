@@ -13,10 +13,15 @@ Team: Monika Radominska & Mar Sánchez
 
 ## Time planning
 
-| Day 1              | Day 2                    | Day 3                            | Day 4                           | Day 5  
-| -------------      | -------------------------| -------------------------------- | ------------------------------- | ---------------
-| Define the problem | Gathering data           | Clean data and prepare our data  | Exploratory data analysis (EDA) | Data visualization
-|                    | Web scraping, APIS       | Jupyter notebook                 | Tableau                         | Tableau
+| Day 1              | Day 2                 | Day 3                            | Day 4                           | Day 5  
+| ------------------ | --------------------- | -------------------------------- | ------------------------------- | ---------------
+| Define the problem | Finding the datasets  | Clean data and prepare our data  | Clean data and prepare our data | Clean data and prepare our data
+|                    | [IUCN Red List]       | Jupyter notebook                 | Jupiter notebook                | Jupiter notebook
+
+| Day 6                           | Day 7                         | Day 8                            | Day 9                  | Day 10  
+| ------------------------------- | ----------------------------- | -------------------------------- | ---------------------- | ---------------
+| Exploratory data analysis (EDA) | EDA                           | Designing dashboard              | Designing dashboard    | Final presentation
+| Jupiter Notebook                | Jupiter Notebook and Tableau  | Jupiter Notebook and Tableau     | Tableau                | Tableau
                    
                    
 This project seeks to uncover key insights and provide clear explanations of the results.
