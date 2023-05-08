@@ -6,7 +6,7 @@ Team: Monika Radominska & Mar Sánchez
 
 - Investigate the conservation needs for animal biodiversity in the world. 
 - Looking into top species which are facing extinction status. 
-- Data collection usin IUCN red list for endangered species. 
+- Data collection using IUCN red list for endangered species. 
 - Visualization using Tableau. 
 
 
