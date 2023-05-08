@@ -4,11 +4,10 @@ Team: Monika Radominska & Mar Sánchez
 
 ## Project goals
 
-The goal of this project is investigate the conservation needs for animal biodiversity in the world data from [IUCN Red List](https://www.iucnredlist.org/). We aim to use web scraping to gather data using IUCN Red List of Threatened Species and create an informative dashboard that effectively communicates the problem of animal biodiversity in each region. Questions to be answered with our dashboard: 
+The goal of this project is to investigate the conservation needs for animal biodiversity in the world, using IUCN Red List of Threatened Species [IUCN Red List](https://www.iucnredlist.org/). We aim to use web scraping and data visualization using Tableau to create an informative dashboard that effectively communicates the problem of animal biodiversity. Questions to be answered with our analysis:  
 
 - Which species of animals are most in need for protection in each country?
-
-Keywords: mass extinction, biodiversity conservation, conservation status, IUCN Red List
+- Are certain types of species more likely to be endangered?
 
 ## Time planning
 
@@ -24,3 +23,5 @@ Keywords: mass extinction, biodiversity conservation, conservation status, IUCN 
                    
                    
 This project seeks to uncover key insights and provide clear explanations of the results.
+
+Keywords: mass extinction, biodiversity conservation, conservation status, IUCN Red List
