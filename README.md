@@ -4,11 +4,7 @@ Team: Monika Radominska & Mar Sánchez
 
 ## Goal of the project
 
-The goal of this project is investigate the conservation needs for animal biodiversity in the world data from the [IUCN Red List](https://www.iucn.org/), particularly looking into top species which are facing extinction status. 
-
-This project will scope, analyze, prepare, visualize data, and seek to explain the findings from the analysis.
-
-- Investigate the conservation needs for animal biodiversity in the world. 
+- Investigate the conservation needs for animal biodiversity in the world data from the [IUCN Red List](https://www.iucn.org/).
 - Looking into top species which are facing extinction status. 
 - Web scraping data collection using the IUCN Red List of Threatened Species.  
 - Visualization using Tableau. 
