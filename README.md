@@ -9,6 +9,11 @@ The goal of this project is to investigate the conservation needs for animal bio
 - Which species of animals are most in need for protection in each country?
 - Are certain types of species more likely to be endangered?
 
+Keywords: mass extinction, biodiversity conservation, conservation status, IUCN Red List
+
+
+
+
 ## Time planning
 
 | Day 1              | Day 2                 | Day 3               | Day 4                           | Day 5  
@@ -23,5 +28,3 @@ The goal of this project is to investigate the conservation needs for animal bio
                    
                    
 This project seeks to uncover key insights and provide clear explanations of the results.
-
-Keywords: mass extinction, biodiversity conservation, conservation status, IUCN Red List
