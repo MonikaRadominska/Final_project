@@ -9,7 +9,7 @@ Team: Monika Radominska & Mar Sánchez
 - Web scraping data collection using the IUCN Red List of Threatened Species.  
 - Visualization using Tableau. 
 
-
+Keywords: mass extinction, biodiversity conservation, conservation status, IUCN Red List
 
 ## Time planning
 
@@ -35,5 +35,3 @@ We aim to create an informative dashboard that effectively communicates the prob
 ## Questions to be answered with our dashboard
 
 Which species of animals are most in need for protection in each country?
-
-Keywords: mass extinction, biodiversity conservation, conservation status, IUCN Red List
