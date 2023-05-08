@@ -25,6 +25,8 @@ This project seeks to uncover key insights and provide clear explanations of the
 
 Animal biodiversity is threatened by various factors worldwide, leading to negative impacts on ecosystems and human well-being. Conservation efforts have not been sufficient to protect many vulnerable species, requiring more effective strategies and collaboration among stakeholders to address the root causes of biodiversity loss.
 
+We aim to create an informative dashboard that effectively communicates the problem of animal biodiversity loss to stakeholders. The dashboard will provide clear and concise information about the most vulnerable species. Through interactive graphs and charts, the dashboard will help users visualize the data and gain insights into the scope and urgency of the problem.
+
 
 
 Keywords: mass extinction, biodiversity conservation, conservation status, IUCN Red List
