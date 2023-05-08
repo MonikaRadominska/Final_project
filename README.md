@@ -13,10 +13,10 @@ Team: Monika Radominska & Mar Sánchez
 
 ## Time planning
 
-| Day 1              | Day 2                 | Day 3                            | Day 4                           | Day 5  
-| ------------------ | --------------------- | -------------------------------- | ------------------------------- | ---------------
-| Define the problem | Finding the datasets  | Clean data and prepare our data  | Clean data and prepare our data | Clean data and prepare our data
-|                    | [IUCN Red List]       | Jupyter notebook                 | Jupiter notebook                | Jupiter notebook
+| Day 1              | Day 2                 | Day 3               | Day 4                           | Day 5  
+| ------------------ | --------------------- | ------------------- | ------------------------------- | ---------------
+| Define the problem | Finding the datasets  | Gathering the data  | Clean data and prepare our data | Clean data and prepare our data
+|                    | Web scraping          | Web scraping        | Jupiter notebook                | Jupiter notebook
 
 | Day 6                           | Day 7                         | Day 8                            | Day 9                  | Day 10  
 | ------------------------------- | ----------------------------- | -------------------------------- | ---------------------- | ---------------
