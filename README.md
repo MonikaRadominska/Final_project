@@ -12,4 +12,4 @@ Team: Monika Radominska & Mar Sánchez
 Keywords: mass extinction, biodiversity conservation, conservation status, IUCN Red List
 
 
-## Project planning
+## Time planning
