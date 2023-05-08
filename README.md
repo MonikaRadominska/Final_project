@@ -19,6 +19,6 @@ Team: Monika Radominska & Mar Sánchez
 |                    | Using web scraping, APIS | Using jupyter notebook           |                                 | Using tableau
                    
                    
-This project will scope, analyze, prepare, visualize data, and seek to explain the findings from the analysis.
+This project seeks to uncover key insights and provide clear explanations of the results.
 
 Keywords: mass extinction, biodiversity conservation, conservation status, IUCN Red List
