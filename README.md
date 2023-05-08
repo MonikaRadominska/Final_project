@@ -16,7 +16,7 @@ Team: Monika Radominska & Mar Sánchez
 | Day 1              | Day 2                    | Day 3                            | Day 4                           | Day 5  
 | -------------      | -------------------------| -------------------------------- | ------------------------------- | ---------------
 | Define the problem | Gathering data           | Clean data and prepare our data  | Exploratory data analysis (EDA) | Data visualization
-|                    | Using web scraping, APIS | Using jupyter notebook           |                                 | Using tableau
+|                    | Web scraping, APIS       | Jupyter notebook                 | Tableau                         | Tableau
                    
                    
 This project seeks to uncover key insights and provide clear explanations of the results.
@@ -24,5 +24,7 @@ This project seeks to uncover key insights and provide clear explanations of the
 ## Defining the problem
 
 Animal biodiversity is threatened by various factors worldwide, leading to negative impacts on ecosystems and human well-being. Conservation efforts have not been sufficient to protect many vulnerable species, requiring more effective strategies and collaboration among stakeholders to address the root causes of biodiversity loss.
+
+
 
 Keywords: mass extinction, biodiversity conservation, conservation status, IUCN Red List
