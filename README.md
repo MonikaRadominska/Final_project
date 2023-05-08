@@ -21,4 +21,8 @@ Team: Monika Radominska & Mar Sánchez
                    
 This project seeks to uncover key insights and provide clear explanations of the results.
 
+## Defining the problem
+
+Animal biodiversity is threatened by various factors worldwide, leading to negative impacts on ecosystems and human well-being. Conservation efforts have not been sufficient to protect many vulnerable species, requiring more effective strategies and collaboration among stakeholders to address the root causes of biodiversity loss.
+
 Keywords: mass extinction, biodiversity conservation, conservation status, IUCN Red List
