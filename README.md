@@ -32,6 +32,8 @@ Animal biodiversity is threatened by various factors worldwide, leading to negat
 
 We aim to create an informative dashboard that effectively communicates the problem of animal biodiversity loss to stakeholders. The dashboard will provide clear and concise information about the most vulnerable species. Through interactive graphs and charts, the dashboard will help users visualize the data and gain insights into the scope and urgency of the problem.
 
+## Questions to be answered with our dashboard
 
+Which species of animals are most in need for protection in each country?
 
 Keywords: mass extinction, biodiversity conservation, conservation status, IUCN Red List
