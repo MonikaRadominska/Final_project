@@ -10,3 +10,6 @@ Team: Monika Radominska & Mar Sánchez
 - Visualization using Tableau. 
 
 Keywords: mass extinction, biodiversity conservation, conservation status, IUCN Red List
+
+
+## Project planning
