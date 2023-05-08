@@ -14,8 +14,8 @@ Keywords: mass extinction, biodiversity conservation, conservation status, IUCN 
 
 ## Time planning
 
-| Day 1                                | Day 2                                 | Day 3       |
-| -------------                        | ------------------------------------- | ------------
-| Define the problem we want to tackle | Gathering data from different sources | 
-| ¿?                                   | Tools: web scraping, APIS             |
+| Day 1                                | Day 2                                 | Day 3                            | Day 4
+| -------------                        | ------------------------------------- | -------------------------------- | --------------
+| Define the problem we want to tackle | Gathering data from different sources | Clean data and prepare our data  | Exploratory our data analysis (EDA)
+| ¿?                                   | Tools: web scraping, APIS             | Tools: jupyter notebook.         |
 |                                      | Sources: https://www.iucn.org/        |
