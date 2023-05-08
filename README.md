@@ -2,7 +2,7 @@
 
 Team: Monika Radominska & Mar Sánchez
 
-## Goal of the project
+## Goals of the project
 
 - Investigate the conservation needs for animal biodiversity in the world data from the [IUCN Red List](https://www.iucnredlist.org/).
 - Looking into top species which are facing extinction status. 
@@ -15,7 +15,7 @@ Keywords: mass extinction, biodiversity conservation, conservation status, IUCN 
 
 | Day 1              | Day 2                 | Day 3               | Day 4                           | Day 5  
 | ------------------ | --------------------- | ------------------- | ------------------------------- | ---------------
-| Define the problem | Finding the datasets  | Gathering the data  | Clean data and prepare our data | Clean data and prepare our data
+| Define the problem | Loading the data      | Gathering the data  | Clean data and prepare our data | Clean data and prepare our data
 | GitHub             | Web scraping          | Web scraping        | Jupiter notebook                | Jupiter notebook
 
 | Day 6                           | Day 7                         | Day 8                            | Day 9                  | Day 10  
