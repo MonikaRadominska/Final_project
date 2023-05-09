@@ -13,8 +13,6 @@ The goal of this project is to showcase the conservation needs for animal biodiv
 - Data cleaning and processing using Python
 - Visualization using Tableau 
 
-<br />
-
 Keywords: mass extinction, biodiversity conservation, conservation status, IUCN Red List
 
 <br />
