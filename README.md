@@ -29,5 +29,5 @@ Keywords: mass extinction, biodiversity conservation, conservation status, IUCN 
 | Exploratory data analysis (EDA) | EDA                           | Designing dashboard              | Designing dashboard    | Final presentation
 | Jupiter Notebook                | Jupiter Notebook and Tableau  | Jupiter Notebook and Tableau     | Tableau                | Tableau
                    
-                   
-This project seeks to uncover key insights and provide clear explanations of the results.
+
+
