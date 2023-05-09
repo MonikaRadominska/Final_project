@@ -21,7 +21,7 @@ Keywords: mass extinction, biodiversity conservation, conservation status, IUCN 
 
 | Day 1              | Day 2                 | Day 3               | Day 4                      | Day 5  
 | ------------------ | --------------------- | ------------------- | -------------------------- | ---------------
-| Define the problem | Loading data          | Gathering data      | Clean and prepare data     | Clean and prepare data
+| Define the problem | Investigation         | Gathering data      | Clean and prepare data     | Clean and prepare data
 | GitHub repo / API  | Project planning / PPT| Web scraping        | Jupiter notebook           | Jupiter notebook
 
 | Day 6             | Day 7              | Day 8                          | Day 9               | Day 10  
