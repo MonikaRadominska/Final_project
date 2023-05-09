@@ -24,10 +24,13 @@ Keywords: mass extinction, biodiversity conservation, conservation status, IUCN 
 | Define problem     | Loading data          | Gathering data      | Clean and prepare data          | Clean and prepare data
 | GitHub repo / API  | Project planning / PPT| Web scraping        | Jupiter notebook                | Jupiter notebook
 
-| Day 6                           | Day 7                        | Day 8                            | Day 9              | Day 10  
-| ------------------------------- | -----------------------------| -------------------------------- | -----------------   | ---------------
-| Exploratory data analysis (EDA) | EDA                          | Designing dashboard              | Designing dashboard | Final presentation
-| Jupiter Notebook                | Jupiter Notebook and Tableau  | Jupiter Notebook and Tableau     | Tableau            | Tableau
-                   
+| Day 6                           | Day 7                        | Day 8                         | Day 9              | Day 10  
+| ------------------------------- | -----------------------------| ------------------------------| -----------------  | ---------------
+| Exploratory data analysis (EDA) | EDA                          | Designing dashboard           | Designing dashboard| Final presentation
+| Jupiter Notebook                | Jupiter Notebook and Tableau  | Jupiter Notebook and Tableau | Tableau            | Tableau
+
+
+
+
 
 
