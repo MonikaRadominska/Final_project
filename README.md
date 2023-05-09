@@ -2,6 +2,8 @@
 
 Team: Monika Radominska & Mar Sánchez
 
+<br />
+
 ## Project goals
 
 The goal of this project is to showcase the conservation needs for animal biodiversity in the world using Business Intelligence (BI), using IUCN Red List of Threatened Species [IUCN Red List](https://www.iucnredlist.org/). 
