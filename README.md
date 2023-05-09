@@ -14,7 +14,8 @@ The goal of this project is to showcase the conservation needs for animal biodiv
 
 Keywords: mass extinction, biodiversity conservation, conservation status, IUCN Red List
 
-
+<br />
+<br />
 
 
 ## Time planning
@@ -30,8 +31,12 @@ Keywords: mass extinction, biodiversity conservation, conservation status, IUCN 
 | Jupiter Notebook  | Jupiter Notebook   | Jupiter Notebook and Tableau   | Tableau             | Tableau
 
 
+<br />
+<br />
 
 Presentation: https://docs.google.com/presentation/d/1sW1BZISaSMs3GtsF93t_3lDQmj7rQmnM/edit#slide=id.p1
+
+
 
 
 
