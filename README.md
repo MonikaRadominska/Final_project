@@ -17,17 +17,23 @@ Keywords: mass extinction, biodiversity conservation, conservation status, IUCN 
 
 <br />
 
+## Data set
+
+Our data is generated from IUCN's Red List of Threatened species, we have 26 columns and 26k rows. 
+
+<br/>
+
 ## Time planning
 
-| Day 1              | Day 2                 | Day 3               | Day 4                      | Day 5  
-| ------------------ | --------------------- | ------------------- | -------------------------- | ---------------
-| Define the problem | Investigation         | Gathering data      | Clean and prepare data     | Clean and prepare data
-| GitHub repo / API  | Project planning / PPT| Web scraping        | Jupiter notebook           | Jupiter notebook
+| Day 1              | Day 2                 | Day 3                  | Day 4                      | Day 5  
+| ------------------ | --------------------- | ---------------------- | -------------------------- | ---------------
+| Define the problem | Looking for datasets  | Clean and prepare data | Clean and prepare data     | Data Preprocessing
+| GitHub repo / API  | Project planning / PPT| Jupyter notebook       | Jupyter notebook           | Jupyter notebook
 
 | Day 6             | Day 7              | Day 8                          | Day 9               | Day 10  
 | ----------------- | ------------------ | ------------------------------ | ------------------  | ---------------
-| EDA               | EDA                |  Designing dashboard           | Designing dashboard | Final presentation
-| Jupiter Notebook  | Jupiter Notebook   | Jupiter Notebook and Tableau   | Tableau             | Tableau
+| Final Data Prep   | Data visualisation |  Designing dashboard           | Designing dashboard | Final presentation
+| Jupyter Notebook  | Tableau            | Tableau                        | Tableau             | 
 
 
 <br />
