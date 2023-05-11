@@ -39,7 +39,7 @@ Our data is generated from IUCN's Red List of Threatened species, we have 26 col
 <br />
 <br />
 
-Presentation: https://docs.google.com/presentation/d/1sW1BZISaSMs3GtsF93t_3lDQmj7rQmnM/edit#slide=id.p1
+[Presentation PPT](https://docs.google.com/presentation/d/1sW1BZISaSMs3GtsF93t_3lDQmj7rQmnM/edit#slide=id.p1)
 
 
 
